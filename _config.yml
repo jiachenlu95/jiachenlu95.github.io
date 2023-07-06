@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiachen Lu / Jiachen Lu's personal website"
+title                    : "Jiachen Lu"
 title_separator          : "-"
 name                     : &name "Jiachen Lu"
 description              : &description "personal description"

@@ -17,24 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, UNSW Sydney, Australia 2021-2023
+* CFD Engineer, Arteryflow Technology Hangzhou, China. 2019
+* Graduate Student Researcher, UC San Diego, USA, 2018-2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: OpenFOAM, WRF, ArcGIS, PALM, ANSYS, ADINA
+* Coding lanugage: Fortran, C/C++, Python, Matlab/Simulink, shell script
+* Proficient in working on Linux system and cluster computing system  
+  
 
 Publications
 ======
